@@ -1,1 +1,1 @@
-console.log("i am from Lahore and basiccaly from RYK");
+console.log("i am from Lahore and basiccaly from RYK and badly");
